@@ -14,3 +14,19 @@ This folder stores **public visual assets** related to the QuestDHD project.
 ---
 
 ### 🧭 Folder structure example
+/media
+├── logo.png
+├── mockup-home.png
+├── mockup-quests.png
+└── color-palette.jpg
+
+
+---
+
+## 🌐 Notes
+Images placed here will appear in the public README or docs files through relative links such as:
+
+
+---
+
+*© 2025 Ana Vertedor (alias: Nerine Aoi). All rights reserved.*
