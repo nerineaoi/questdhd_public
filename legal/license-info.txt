@@ -1,0 +1,6 @@
+QuestDHD — Public Documentation Repository
+© 2025 Ana Vertedor (alias: Nerine Aoi). All rights reserved.
+This repository contains only public documentation and visual assets.
+
+The core project files, designs, and blockchain timestamp proofs
+are stored privately and are not included in this repository.
