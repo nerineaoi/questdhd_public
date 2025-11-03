@@ -53,13 +53,9 @@ No sensitive data or credentials are stored in this repository.
 © 2025 **Ana Vertedor** (alias *Nerine Aoi*) — All rights reserved.  
 *Todos los derechos reservados.*
 
-For academic or collaboration inquiries, open an issue.  
-*Para uso académico o consultas de colaboración, abre un “issue”.*
-
-
 ---
 
 ## 🤝 Contact
-For collaboration or academic inquiries, please open an issue or contact the author.  
-*Para colaboración o consultas académicas, abre un *issue* o contacta con la autora.*
+For academic or collaboration inquiries, open an issue w/ me.  
+*Para uso académico o consultas de colaboración, abre un “issue” conmigo.*
 
